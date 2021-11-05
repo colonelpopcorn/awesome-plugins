@@ -16,7 +16,7 @@ A list of open-source software extensible via plugins.
 - [Notepad ++]()
 - [Jetbrains IDEA]()
 
-## Frameworks
+## UI Frameworks
 - [Vue]()
 
 ## Groupware
