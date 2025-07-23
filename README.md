@@ -1,5 +1,5 @@
 # awesome-plugins
-A list of open-source software extensible via plugins.
+A list of software extensible via plugins.
 
 ## CMS
 - [Wordpress](https://github.com/WordPress/WordPress) - CMS extensible with plugins and themes.
