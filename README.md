@@ -28,8 +28,8 @@ A list of software extensible via plugins, modules, bundles, add-ins, extensions
 - [Drupal](https://github.com/drupal/drupal) - Drupal is a fully composable CMS that allows you to design a digital experience to your vision.
 
 ## Groupware
-- [Nextcloud]()
-- [Owncloud]()
+- [Nextcloud](https://github.com/nextcloud) - A safe home for all your data.
+- [Owncloud](https://github.com/owncloud) -  Similar to Nextcloud but more targeted to enterprise users.
 
 ## IDE/Code Editors
 - [Visual Studio Code](https://github.com/microsoft/vscode) - The open source AI code editor
