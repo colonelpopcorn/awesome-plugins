@@ -3,7 +3,7 @@ A list of software extensible via plugins, modules, bundles, add-ins, extensions
 
 ## Table of Contents
 
-- CMS(#CMS)
+- [CMS](#CMS)
 
 ## CMS
 - [WordPress](https://github.com/WordPress/WordPress) - The open source publishing platform of choice for millions of websites worldwide.
