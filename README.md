@@ -4,6 +4,12 @@ A list of software extensible via plugins, modules, bundles, add-ins, extensions
 ## Table of Contents
 
 - [CMS](#CMS)
+- [Groupware](#Groupware)
+- [IDE/Code Editors](#IDE/Code_Editors)
+- [Project Management](#Project_Management)
+- [Ticket Support](#Ticket_Support)
+- [UI Frameworks](#UI_Frameworks)
+- [Web Servers](#Web_Servers)
 
 ## CMS
 - [WordPress](https://github.com/WordPress/WordPress) - The open source publishing platform of choice for millions of websites worldwide.
@@ -12,11 +18,9 @@ A list of software extensible via plugins, modules, bundles, add-ins, extensions
   - [Awesome Joomla](https://github.com/rajnishmsrit/awesome-joomla?tab=readme-ov-file#development) - A collection of resources for Joomla
 - [Drupal](https://github.com/drupal/drupal) - Drupal is a fully composable CMS that allows you to design a digital experience to your vision.
 
-## Ticket Support
-- [osTicket](https://github.com/osTicket/osTicket) - Ticket and support system that is extensible via plugins.
-
-## Project Management
-- [Kanboard](https://github.com/kanboard/kanboard) - Kanboard is a free and open source Kanban project management software.
+## Groupware
+- [Nextcloud]()
+- [Owncloud]()
 
 ## IDE/Code Editors
 - [Visual Studio Code](https://github.com/microsoft/vscode) - The open source AI code editor
@@ -25,12 +29,14 @@ A list of software extensible via plugins, modules, bundles, add-ins, extensions
 - [Notepad ++](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ is a free (as in “free speech” and also as in “free beer”) source code editor and Notepad replacement that supports several programming languages.
 - [Jetbrains IDEA](https://www.jetbrains.com/ides/) - Make it happen. With code.
 
+## Project Management
+- [Kanboard](https://github.com/kanboard/kanboard) - Kanboard is a free and open source Kanban project management software.
+
+## Ticket Support
+- [osTicket](https://github.com/osTicket/osTicket) - Ticket and support system that is extensible via plugins.
+
 ## UI Frameworks
 - [Vue](https://github.com/vuejs/core) - The Progressive JavaScript Framework
-
-## Groupware
-- [Nextcloud]()
-- [Owncloud]()
 
 ## Web Servers
 - [Traefik]()
