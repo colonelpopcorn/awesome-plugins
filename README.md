@@ -5,11 +5,11 @@ A list of software extensible via plugins, modules, bundles, add-ins, extensions
 
 - [CMS](#CMS)
 - [Groupware](#Groupware)
-- [IDE/Code Editors](#IDE/Code_Editors)
-- [Project Management](#Project_Management)
-- [Ticket Support](#Ticket_Support)
-- [UI Frameworks](#UI_Frameworks)
-- [Web Servers](#Web_Servers)
+- [IDE/Code Editors](#idecode-editors)
+- [Project Management](#project-management)
+- [Ticket Support](#ticket-support)
+- [UI Frameworks](#ui-frameworks)
+- [Web Servers](#web-servers)
 
 ## CMS
 - [WordPress](https://github.com/WordPress/WordPress) - The open source publishing platform of choice for millions of websites worldwide.
