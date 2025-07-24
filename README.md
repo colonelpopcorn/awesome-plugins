@@ -6,6 +6,7 @@ A list of software extensible via plugins, modules, bundles, add-ins, extensions
 - [CMS](#CMS)
 - [Groupware](#Groupware)
 - [IDE/Code Editors](#idecode-editors)
+- [Operating Systems](#operating-systems)
 - [Project Management](#project-management)
 - [Ticket Support](#ticket-support)
 - [UI Frameworks](#ui-frameworks)
@@ -29,6 +30,9 @@ A list of software extensible via plugins, modules, bundles, add-ins, extensions
 - [Notepad ++](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ is a free (as in “free speech” and also as in “free beer”) source code editor and Notepad replacement that supports several programming languages.
 - [Jetbrains IDEA](https://www.jetbrains.com/ides/) - Make it happen. With code.
 
+## Operating Systems
+- [Linux](https://github.com/torvalds/linux) - Linux® is an open source operating system (OS) created in 1991 by Linus Torvalds.
+
 ## Project Management
 - [Kanboard](https://github.com/kanboard/kanboard) - Kanboard is a free and open source Kanban project management software.
 
@@ -39,5 +43,5 @@ A list of software extensible via plugins, modules, bundles, add-ins, extensions
 - [Vue](https://github.com/vuejs/core) - The Progressive JavaScript Framework
 
 ## Web Servers
-- [Traefik]()
-- [Nginx]()
+- [Traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
+- [Nginx](https://github.com/nginx/nginx) - An HTTP web server, reverse proxy, content cache, load balancer, TCP/UDP proxy server, and mail proxy server.
