@@ -3,6 +3,8 @@ A list of software extensible via plugins, modules, bundles, add-ins, extensions
 
 ## Table of Contents
 
+- [Build Automation](#build-automation)
+- [CI/CD](#cicd)
 - [CMS](#CMS)
 - [Groupware](#Groupware)
 - [IDE/Code Editors](#idecode-editors)
@@ -11,6 +13,12 @@ A list of software extensible via plugins, modules, bundles, add-ins, extensions
 - [Ticket Support](#ticket-support)
 - [UI Frameworks](#ui-frameworks)
 - [Web Servers](#web-servers)
+
+## Build Automation
+- [Maven](https://github.com/apache/maven) - Build tool for Java
+
+## CI/CD
+- [Jenkins](https://github.com/jenkinsci/jenkins) - Build great things at any scale
 
 ## CMS
 - [WordPress](https://github.com/WordPress/WordPress) - The open source publishing platform of choice for millions of websites worldwide.
