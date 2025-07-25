@@ -20,17 +20,18 @@ A list of software extensible via plugins, modules, bundles, add-ins, extensions
 
 ## Build Automation
 - [Maven](https://github.com/apache/maven) - Build tool for Java
+- [WebPack](https://webpack.js.org/) - A bundler for javascript and friends. ([Source Code](https://github.com/webpack/webpack))
 
 ## CI/CD
-- [Jenkins](https://github.com/jenkinsci/jenkins) - Build great things at any scale
 - [GoCD](https://www.gocd.org/) - Easily model and visualize complex workflows with GoCD.
+- [Jenkins](https://github.com/jenkinsci/jenkins) - Build great things at any scale
 
 ## CMS
-- [WordPress](https://github.com/WordPress/WordPress) - The open source publishing platform of choice for millions of websites worldwide.
-  - [Awesome WordPress](https://github.com/miziomon/awesome-wordpress) - A collection of resources for WordPress 
+- [Drupal](https://github.com/drupal/drupal) - Drupal is a fully composable CMS that allows you to design a digital experience to your vision.
 - [Joomla](https://github.com/joomla/joomla-cms) - A Content Management System (CMS) which enables you to build websites and powerful online applications.
   - [Awesome Joomla](https://github.com/rajnishmsrit/awesome-joomla?tab=readme-ov-file#development) - A collection of resources for Joomla
-- [Drupal](https://github.com/drupal/drupal) - Drupal is a fully composable CMS that allows you to design a digital experience to your vision.
+- [WordPress](https://github.com/WordPress/WordPress) - The open source publishing platform of choice for millions of websites worldwide.
+  - [Awesome WordPress](https://github.com/miziomon/awesome-wordpress) - A collection of resources for WordPress 
 
 ## Groupware
 - [Nextcloud](https://github.com/nextcloud) - A safe home for all your data.
@@ -43,11 +44,11 @@ A list of software extensible via plugins, modules, bundles, add-ins, extensions
 - [Keycloak](https://www.keycloak.org/) - Add authentication to applications and secure services with minimum effort. ([Source Code](https://github.com/keycloak/keycloak))
 
 ## IDE/Code Editors
-- [Visual Studio Code](https://github.com/microsoft/vscode) - The open source AI code editor
+- [Jetbrains IDEA](https://www.jetbrains.com/ides/) - Make it happen. With code.
+- [Notepad ++](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ is a free (as in “free speech” and also as in “free beer”) source code editor and Notepad replacement that supports several programming languages.
 - [Pulsar](https://github.com/pulsar-edit/pulsar) - Pulsar, a Community-led Hyper-Hackable Text Editor
 - [Sublime Text](https://www.sublimetext.com/) - Text Editing, Done Right
-- [Notepad ++](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ is a free (as in “free speech” and also as in “free beer”) source code editor and Notepad replacement that supports several programming languages.
-- [Jetbrains IDEA](https://www.jetbrains.com/ides/) - Make it happen. With code.
+- [Visual Studio Code](https://github.com/microsoft/vscode) - The open source AI code editor
 
 ## Operating Systems
 - [Linux](https://github.com/torvalds/linux) - Linux® is an open source operating system (OS) created in 1991 by Linus Torvalds.
@@ -69,5 +70,5 @@ A list of software extensible via plugins, modules, bundles, add-ins, extensions
 - [Symfony](https://symfony.com/) - Build with confidence at any scale ([Source Code](https://github.com/symfony/symfony))
 
 ## Web Servers
-- [Traefik](https://traefik.io/) - The Cloud Native Application Proxy ([Source Code](https://github.com/traefik/traefik))
 - [Nginx](https://nginx.org/) - An HTTP web server, reverse proxy, content cache, load balancer, TCP/UDP proxy server, and mail proxy server. ([Source Code](https://github.com/nginx/nginx))
+- [Traefik](https://traefik.io/) - The Cloud Native Application Proxy ([Source Code](https://github.com/traefik/traefik))
