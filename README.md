@@ -10,6 +10,7 @@ A list of software extensible via plugins, modules, bundles, add-ins, extensions
 - [IDE/Code Editors](#idecode-editors)
 - [Operating Systems](#operating-systems)
 - [Project Management](#project-management)
+- [SDKs](#sdks)
 - [Ticket Support](#ticket-support)
 - [UI Frameworks](#ui-frameworks)
 - [Web Servers](#web-servers)
