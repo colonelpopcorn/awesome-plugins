@@ -15,6 +15,7 @@ A list of software extensible via plugins, modules, bundles, add-ins, extensions
 - [SDKs](#sdks)
 - [Ticket Support](#ticket-support)
 - [UI Frameworks](#ui-frameworks)
+- [Web Frameworks](#web-frameworks)
 - [Web Servers](#web-servers)
 
 ## Build Automation
@@ -52,17 +53,21 @@ A list of software extensible via plugins, modules, bundles, add-ins, extensions
 - [Linux](https://github.com/torvalds/linux) - Linux® is an open source operating system (OS) created in 1991 by Linus Torvalds.
 
 ## Project Management
-- [Kanboard](https://github.com/kanboard/kanboard) - Kanboard is a free and open source Kanban project management software.
+- [Kanboard](https://kanboard.org/) - Kanboard is a free and open source Kanban project management software. ([Source Code](https://github.com/kanboard/kanboard))
 
 ## SDKs
 - [pf4j](https://pf4j.org/) - Plugin Framework for Java (PF4J) ([Source Code](https://github.com/pf4j/pf4j))
 
 ## Ticket Support
-- [osTicket](https://github.com/osTicket/osTicket) - Ticket and support system that is extensible via plugins.
+- [osTicket](https://osticket.com/) - Ticket and support system that is extensible via plugins. ([Source Code](https://github.com/osTicket/osTicket))
 
 ## UI Frameworks
-- [Vue](https://github.com/vuejs/core) - The Progressive JavaScript Framework
+- [Vue](https://vuejs.org/) - The Progressive JavaScript Framework ([Source Code](https://github.com/vuejs/core))
+
+## Web Frameworks
+- [Dropwizard](https://www.dropwizard.io/en/stable/) - Dropwizard is a Java framework for developing ops-friendly, high-performance, RESTful web services. ([Source Code](https://github.com/dropwizard/dropwizard))
+- [Symfony](https://symfony.com/) - Build with confidence at any scale ([Source Code](https://github.com/symfony/symfony))
 
 ## Web Servers
-- [Traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
-- [Nginx](https://github.com/nginx/nginx) - An HTTP web server, reverse proxy, content cache, load balancer, TCP/UDP proxy server, and mail proxy server.
+- [Traefik](https://traefik.io/) - The Cloud Native Application Proxy ([Source Code](https://github.com/traefik/traefik))
+- [Nginx](https://nginx.org/) - An HTTP web server, reverse proxy, content cache, load balancer, TCP/UDP proxy server, and mail proxy server. ([Source Code](https://github.com/nginx/nginx))
