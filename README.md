@@ -19,6 +19,7 @@ A list of software extensible via plugins, modules, bundles, add-ins, extensions
 
 ## CI/CD
 - [Jenkins](https://github.com/jenkinsci/jenkins) - Build great things at any scale
+- [GoCD](https://www.gocd.org/) - Easily model and visualize complex workflows with GoCD.
 
 ## CMS
 - [WordPress](https://github.com/WordPress/WordPress) - The open source publishing platform of choice for millions of websites worldwide.
