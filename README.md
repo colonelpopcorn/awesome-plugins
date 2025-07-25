@@ -35,7 +35,7 @@ A list of software extensible via plugins, modules, bundles, add-ins, extensions
 - [Owncloud](https://github.com/owncloud) -  Similar to Nextcloud but more targeted to enterprise users.
 
 ## Human Resources Management (HRM)
-- [OrangeHRM](https://www.orangehrm.com/) - OrangeHRM provides a world-class HRIS experience and offers everything you and your team need to be the HR heroes you know you are. ([Source Code(https://github.com/orangehrm/orangehrm))
+- [OrangeHRM](https://www.orangehrm.com/) - OrangeHRM provides a world-class HRIS experience ([Source Code](https://github.com/orangehrm/orangehrm))
 
 ## IDE/Code Editors
 - [Visual Studio Code](https://github.com/microsoft/vscode) - The open source AI code editor
