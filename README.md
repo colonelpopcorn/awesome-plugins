@@ -8,6 +8,7 @@ A list of software extensible via plugins, modules, bundles, add-ins, extensions
 - [CMS](#CMS)
 - [Groupware](#Groupware)
 - [Human Resources Management (HRM)](#human-resources-management-hrm)
+- [IAM - SSO](#iam---sso)
 - [IDE/Code Editors](#idecode-editors)
 - [Operating Systems](#operating-systems)
 - [Project Management](#project-management)
@@ -36,6 +37,9 @@ A list of software extensible via plugins, modules, bundles, add-ins, extensions
 
 ## Human Resources Management (HRM)
 - [OrangeHRM](https://www.orangehrm.com/) - OrangeHRM provides a world-class HRIS experience ([Source Code](https://github.com/orangehrm/orangehrm))
+
+## IAM - SSO
+- [Keycloak](https://www.keycloak.org/) - Add authentication to applications and secure services with minimum effort. ([Source Code](https://github.com/keycloak/keycloak))
 
 ## IDE/Code Editors
 - [Visual Studio Code](https://github.com/microsoft/vscode) - The open source AI code editor
