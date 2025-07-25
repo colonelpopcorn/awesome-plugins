@@ -7,6 +7,7 @@ A list of software extensible via plugins, modules, bundles, add-ins, extensions
 - [CI/CD](#cicd)
 - [CMS](#CMS)
 - [Groupware](#Groupware)
+- [Human Resources Management (HRM)](#human-resources-management-hrm)
 - [IDE/Code Editors](#idecode-editors)
 - [Operating Systems](#operating-systems)
 - [Project Management](#project-management)
@@ -32,6 +33,9 @@ A list of software extensible via plugins, modules, bundles, add-ins, extensions
 ## Groupware
 - [Nextcloud](https://github.com/nextcloud) - A safe home for all your data.
 - [Owncloud](https://github.com/owncloud) -  Similar to Nextcloud but more targeted to enterprise users.
+
+## Human Resources Management (HRM)
+- [OrangeHRM](https://www.orangehrm.com/) - OrangeHRM provides a world-class HRIS experience and offers everything you and your team need to be the HR heroes you know you are. ([Source Code(https://github.com/orangehrm/orangehrm))
 
 ## IDE/Code Editors
 - [Visual Studio Code](https://github.com/microsoft/vscode) - The open source AI code editor
