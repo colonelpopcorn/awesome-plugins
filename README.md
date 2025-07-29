@@ -19,7 +19,7 @@ A list of software extensible via plugins, modules, bundles, add-ins, extensions
 - [Web Servers](#web-servers)
 
 ## Build Automation
-- [Maven](https://github.com/apache/maven) - Build tool for Java
+- [Maven](https://maven.apache.org/) - Build tool for Java ([Source Code](https://github.com/apache/maven))
 - [WebPack](https://webpack.js.org/) - A bundler for javascript and friends. ([Source Code](https://github.com/webpack/webpack))
 
 ## CI/CD
